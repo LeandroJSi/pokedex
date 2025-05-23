@@ -17,18 +17,18 @@ Este é um aplicativo **Pokédex** desenvolvido em **Flutter**. O app consome a 
 
 ---
 # Como Executar
-1.Pré-requisitos:
+1. Pré-requisitos:
 
     Flutter SDK 3.32.0.
 
     Android Studio ou VS Code configurados.
 
-2.Clonar o repositório:
+2. Clonar o repositório:
 
     git clone https://github.com/LeandroJSi/pokedex.git
     cd pokedex_app
 
-3.Instalar dependências:
+3. Instalar dependências:
 
     flutter pub get
 
